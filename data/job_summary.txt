@@ -1,0 +1,33 @@
+Job Summary (Key Points)
+
+Role: Backend Software Engineer – Core Platform (Python)
+Location: Palo Alto, CA (Hybrid) | Full-time
+
+What they build: Real-time payment reconciliation backend services for fintech platform.
+
+Responsibilities (key):
+- Design/implement scalable Python backend services (FastAPI or Django REST Framework)
+- Own features end-to-end (design through deployment and monitoring)
+- Write clean, well-tested code with strong reliability/observability
+- Code reviews and raise engineering standards
+- Collaborate with data engineers on queries/pipelines (PostgreSQL, Redis)
+- Contribute to internal tooling and developer experience
+- Participate in on-call rotations and production incident response
+
+Requirements (must-have):
+- 2+ years backend development experience
+- Strong Python; FastAPI or Django experience a plus
+- RESTful API design and best practices
+- Relational DB experience (PostgreSQL preferred)
+- Cloud familiarity, AWS preferred (Lambda, RDS, SQS)
+- Containerization experience (Docker, Kubernetes)
+- Agile environment with short release cycles
+- Strong communication skills (clear to non-technical stakeholders)
+
+Nice-to-have (optional):
+- Fintech/payments/regulated industries experience
+- Event-driven architectures (Kafka, SQS)
+- Open-source contributions
+- Observability tools (Datadog, OpenTelemetry)
+
+Keywords: Python, FastAPI, Django, REST, PostgreSQL, Redis, AWS, Docker, Kubernetes, Terraform, Datadog, OpenTelemetry, Agile, on-call, observability

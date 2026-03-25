@@ -1,0 +1,44 @@
+Software Engineer — Backend (Python)
+Palo Alto, CA · Full-time · Hybrid
+
+About Us
+Meridian Labs is a Series B fintech startup building infrastructure for real-time payment reconciliation. Our platform processes over $2B in transactions monthly for mid-market and enterprise clients across North America. We move fast, care deeply about code quality, and believe that great engineering is the foundation of everything we ship.
+
+About the Role
+We're looking for a Backend Software Engineer to join our Core Platform team. You'll work closely with senior engineers and product managers to design, build, and maintain the systems that power our reconciliation engine. This is a high-ownership role — you'll be expected to contribute to architecture decisions, not just implement tickets.
+
+Responsibilities
+- Design and implement scalable backend services in Python (FastAPI or Django REST Framework)
+- Own features end-to-end: from technical design through deployment and monitoring
+- Write clean, well-tested code with a strong emphasis on reliability and observability
+- Participate in code reviews and contribute to raising the team's engineering standards
+- Collaborate with data engineers to optimize database queries and data pipelines (PostgreSQL, Redis)
+- Contribute to internal tooling and developer experience improvements
+- Participate in on-call rotations and respond to production incidents
+
+Requirements
+- 2+ years of professional experience in backend software development
+- Strong proficiency in Python; experience with FastAPI or Django is a plus
+- Solid understanding of RESTful API design and best practices
+- Experience working with relational databases (PostgreSQL preferred)
+- Familiarity with cloud infrastructure, preferably AWS (Lambda, RDS, SQS)
+- Experience with containerization tools (Docker, Kubernetes)
+- Comfortable working in an agile environment with short release cycles
+- Strong communication skills — you can explain technical decisions clearly to non-technical stakeholders
+
+Nice to Have
+- Experience in fintech, payments, or regulated industries
+- Familiarity with event-driven architectures (Kafka, SQS)
+- Contributions to open-source projects
+- Experience with observability tools (Datadog, OpenTelemetry)
+
+What We Offer
+- Competitive salary: $130,000 – $165,000 depending on experience
+- Equity package (0.05% – 0.15%)
+- Health, dental, and vision insurance (100% covered for employee)
+- $2,000/year learning & development budget
+- Flexible working hours and hybrid schedule (2 days/week in office)
+- 20 days PTO + company holidays
+
+Our Stack
+Python · FastAPI · PostgreSQL · Redis · AWS · Docker · Kubernetes · Terraform · Datadog · GitHub Actions
